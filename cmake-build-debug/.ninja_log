@@ -1,0 +1,8 @@
+# ninja log v5
+17	1141	7317101554091202	CMakeFiles/laba4.dir/file.cpp.obj	32f4a0e4883ba9f6
+4	2406	7317101566752444	CMakeFiles/laba4.dir/main.cpp.obj	9ecb7da0dcf871a2
+25	722	7317101549910030	CMakeFiles/laba4.dir/struct.cpp.obj	ee504ceaa86a3842
+2406	2549	7317101568139050	laba4.exe	f473dd13fcd34738
+13	807	7317101550751665	CMakeFiles/laba4.dir/output.cpp.obj	13dc822d3244d295
+21	761	7317101550300881	CMakeFiles/laba4.dir/input.cpp.obj	1c8a974491982157
+9	1020	7317101552884910	CMakeFiles/laba4.dir/menu.cpp.obj	66076cc1dd4f031a
